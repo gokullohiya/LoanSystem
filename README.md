@@ -1,2 +1,2 @@
 # LoanSystem
-Simple OOPs Project for granting Loan
+OOPs Project for granting Loan
